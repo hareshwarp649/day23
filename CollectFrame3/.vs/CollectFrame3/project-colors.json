@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1ed1a9a-3726-40e5-a3c3-c465e37e7a3f": {
+      "ProjectGuid": "e1ed1a9a-3726-40e5-a3c3-c465e37e7a3f",
+      "DisplayName": "CollectFrame3",
+      "ColorIndex": 0
+    },
+    "417fdc8a-bbed-4050-8100-08c6189111f8": {
+      "ProjectGuid": "417fdc8a-bbed-4050-8100-08c6189111f8",
+      "DisplayName": "CollectFrame4",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
