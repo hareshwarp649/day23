@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Day23\Uc7COllectFrameAddBook\bin\Debug\Uc7COllectFrameAddBook.exe.config
+C:\Users\ADMIN\source\repos\Day23\Uc7COllectFrameAddBook\bin\Debug\Uc7COllectFrameAddBook.exe
+C:\Users\ADMIN\source\repos\Day23\Uc7COllectFrameAddBook\bin\Debug\Uc7COllectFrameAddBook.pdb
+C:\Users\ADMIN\source\repos\Day23\Uc7COllectFrameAddBook\obj\Debug\Uc7COllectFrameAddBook.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Day23\Uc7COllectFrameAddBook\obj\Debug\Uc7COllectFrameAddBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Day23\Uc7COllectFrameAddBook\obj\Debug\Uc7COllectFrameAddBook.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Day23\Uc7COllectFrameAddBook\obj\Debug\Uc7COllectFrameAddBook.exe
+C:\Users\ADMIN\source\repos\Day23\Uc7COllectFrameAddBook\obj\Debug\Uc7COllectFrameAddBook.pdb
